@@ -1,14 +1,14 @@
 # Premium Fast Paid Proxy Servers
 
- [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=paid-proxy-servers-github&transaction_id=102f49063ab94276ae8f116d224b67) 
+ [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=paid-proxy-servers&utm_campaign=banner&groupid=877) 
 
-<a href="https://oxylabs.io"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
+<a href="https://oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=paid-proxy-servers&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
 <a href="https://developers.oxylabs.io"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
 <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/📊_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
 <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
 <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
 
-Oxylabs' team ensures high proxy uptime and stability as our engineers conduct 24/7 system maintenance. We keep one of the largest proxy pools in the market with [102M+ IPs in 195 countries](https://oxylabs.io/location-proxy) with country, city, state, ZIP code, ASN, and coordinate-level targeting opportunities.
+Oxylabs' team ensures high proxy uptime and stability as our engineers conduct 24/7 system maintenance. We keep one of the largest proxy pools in the market with [102M+ IPs in 195 countries](https://oxylabs.io/location-proxy?utm_source=github&utm_medium=referral&utm_content=paid-proxy-servers&groupid=877) with country, city, state, ZIP code, ASN, and coordinate-level targeting opportunities.
 
 
 ## Buy Premium Proxies from $10/GB
@@ -16,7 +16,7 @@ Oxylabs' team ensures high proxy uptime and stability as our engineers conduct 2
 Industry-leading proxy services for a wide range of use cases
 
 
-[**Residential Proxies**](https://oxylabs.io/products/residential-proxy-pool)
+[**Residential Proxies**](https://oxylabs.io/products/residential-proxy-pool?utm_source=github&utm_medium=referral&utm_content=paid-proxy-servers&groupid=877)
 
 With Residential Proxies, you can collect public data from almost any website in the country without being blocked.
 
@@ -24,7 +24,7 @@ With Residential Proxies, you can collect public data from almost any website in
 - Collect a large number of public data
 - Forget about IP blocks
 
-[**Mobile Proxies**](https://oxylabs.io/products/mobile-proxies)
+[**Mobile Proxies**](https://oxylabs.io/products/mobile-proxies?utm_source=github&utm_medium=referral&utm_content=paid-proxy-servers&groupid=877)
 
 Bypass geo-restrictions effortlessly with high-quality and reliable Mobile Proxy IPs.
 
@@ -32,7 +32,7 @@ Bypass geo-restrictions effortlessly with high-quality and reliable Mobile Proxy
 - 1.1 s market leading response time
 - Avg. 99.9% uptime for high-performance
 
-[**SOCKS5 Proxies**](https://oxylabs.io/products/socks5-proxies)
+[**SOCKS5 Proxies**](https://oxylabs.io/products/socks5-proxies?utm_source=github&utm_medium=referral&utm_content=paid-proxy-servers&groupid=877)
 
   Use the flexibility of Oxylabs’ SOCKS5 Proxies to perform traffic-intensive data gathering tasks, all while avoiding CAPTCHAs.
 
@@ -40,7 +40,7 @@ Bypass geo-restrictions effortlessly with high-quality and reliable Mobile Proxy
 - Free advanced targeting: ASN, ZIP, city, state, country
 - Market's highest uptime of 99.9%
 
-[**Datacenter Proxies**](https://oxylabs.io/products/datacenter-proxies)
+[**Datacenter Proxies**](https://oxylabs.io/products/datacenter-proxies?utm_source=github&utm_medium=referral&utm_content=paid-proxy-servers&groupid=877)
 
 Perform large-scale scraping projects at high speed and performance with private proxies.
 
